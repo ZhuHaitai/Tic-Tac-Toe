@@ -1,0 +1,14 @@
+{
+  "title": "BMI計算機",
+  "height1": "請輸入身高",
+  "weight1": "請輸入體重",
+  "error_text": "不得為空",
+  "button1": "計算",
+  "result1": "您的BMI值=",
+  "status00": "您的狀態為：",
+  "status01": "過輕",
+  "status02": "正常",
+  "status03": "過重",
+  "alarm1": "警告",
+  "alarm2": "身高/體重不得為空!"
+}

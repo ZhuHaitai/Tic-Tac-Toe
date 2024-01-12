@@ -1,0 +1,14 @@
+{
+  "title": "BMI Calculator",
+  "height1": "Please input your height",
+  "weight1": "Please input your weight",
+  "error_text": "Cannot be empty",
+  "button1": "Confirm",
+  "result1": "Your BMI=",
+  "status00": "Your body status is ",
+  "status01": "too light",
+  "status02": "normal",
+  "status03": "too heavy",
+  "alarm1": "Warning",
+  "alarm2": "Height/weight cannot be empty!"
+}
